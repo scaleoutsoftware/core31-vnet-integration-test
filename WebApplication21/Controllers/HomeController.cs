@@ -16,6 +16,8 @@ namespace WebApplication21.Controllers
         public IActionResult Index()
         {
             EchoClient.Echo.Test(EchoHost, EchoPort);
+            ViewData["TestResult"] = "Echo test has successfully completed";
+
             return View();
         }
 

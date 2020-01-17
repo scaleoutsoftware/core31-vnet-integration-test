@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29613.14
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoClient", "EchoClient\EchoClient.csproj", "{A8AE87FA-90D2-43D9-89C2-FEF5E6F5DCB0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication21", "WebApplication21\WebApplication21.csproj", "{5315618A-F380-4653-953E-783331E73889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication22", "WebApplication21\WebApplication22.csproj", "{5315618A-F380-4653-953E-783331E73889}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication31", "WebApplication31\WebApplication31.csproj", "{A3A0635A-8C40-483D-8FB8-222D22F0EB1F}"
 EndProject
